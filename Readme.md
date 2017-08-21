@@ -28,7 +28,7 @@ I work as a Front-end Developer since 2012 and I am an academic of the Software 
 * Git
 * Scrum and Kanban
 
-## Experiência Profissional
+## Professional Experience
 
 **Front-end Developer** - Condominizar - November 2016 - Actually
 
