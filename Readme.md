@@ -61,7 +61,7 @@ I work as a Front-end Developer since 2012 and I am an academic of the Software 
 ## Courses
 
 * Angular 4 - The complete guide (Udemy, 2017)
-* Curso de Programação em PHP (FLISOL, 2013)
-* Curso de Samba – Linux Server (FLISOL, 2013)
-* Curso de Programação em Delphi (Consisanet Informatics LTDA, 2012)
-* Curso de Programação em C – Básico (UTFPR, 2012)
+* PHP Programming (FLISOL, 2013)
+* Samba – Linux Server (FLISOL, 2013)
+* Delphi Programming (Consisanet Informatics LTDA, 2012)
+* C Programming – Basic (UTFPR, 2012)
