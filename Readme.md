@@ -32,7 +32,7 @@ I work as a Front-end Developer since 2012 and I am an academic of the Software 
 
 **Front-end Developer** - Condominizar - November 2016 - Actually
 
-> I am responsible for the development of a platform for management of condominiums, focusing on the financial and bureaucratic control of small and large condominiums. I create new functionalities for the system and other necessities for the viability of the product. We are a team of 3 people, being a backend Java developer, a product manager and myself as a front-end developer. In the building proccess of the platform I try to improve my practices and create reusable components efficiently. Working with: Javascript (ES6), HTML5, CSS3 / SASS, Angular, Bootstrap, Git and Kanban.
+> I am responsible for the development of a platform for management of condominiums, focusing on the financial and bureaucratic control of small and large condominiums. I create new functionalities for the system and other necessities for the viability of the product. In the building proccess of the platform I try to improve my practices and create reusable components efficiently. Working with: Typescript, Javascript, JQuery, HTML5, CSS3 / SASS, Angular, Bootstrap, Git and Kanban.
 
 **Front-end Developer** - R3Mobi - September 2015 - November 2016
 
