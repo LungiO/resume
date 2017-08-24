@@ -32,7 +32,7 @@ Eu trabalho como desenvolvedor front-end desde 2012 e sou acadêmico do curso de
 
 **Desenvolvedor Front-end** - Condominizar - Novembro 2016 - Presente
 
-> Sou responsável pelo desenvolvimento de uma plataforma para gestão de condomínios, com foco no controle financeiro e burocrático de condomínios de pequeno e grande porte. Crio novas funcionalidades para o sistema e demais necessidades para a viabilidade do produto. Somos uma equipe de 3 pessoas, sendo um desenvolvedor back-end Java, um gerente de produto e eu como desenvolvedor front-end. Na construção da plataforma procuro melhorar minhas práticas e criar componentes reutilizáveis de forma eficiente. Trabalhando com: Javascript (ES6), HTML5, CSS3/SASS, Angular, Bootstrap, Git e Kanban.
+> Sou responsável pelo desenvolvimento de uma plataforma para gestão de condomínios, com foco no controle financeiro e burocrático de condomínios de pequeno e grande porte. Crio novas funcionalidades para o sistema e demais necessidades para a viabilidade do produto. Na construção da plataforma procuro melhorar minhas práticas e criar componentes reutilizáveis de forma eficiente. Trabalhando com: Typescript, Javascript, JQuery, HTML5, CSS3/SASS, Angular, Bootstrap, Git e Kanban.
 
 **Desenvolvedor Front-end** - R3Mobi - Setembro 2015 - Novembro 2016
 
