@@ -52,14 +52,14 @@ Front-end Developer since 2012. Studying Software Engineering at the Federal Tec
 
 ## Formation
 
-**Software Engineering - UTFPR** - January 2017 - Actually  
+**Software Engineering - UTFPR** - January 2017 - Actually
 
 **Degree in Informatics - UTFPR** - January 2012 - July 2014 - Not finished
 
 
 ## Courses
 
-* Docker - Essential tool for deleveopers (Udemy, 2017)
+* Docker - Essential tool for developers (Udemy, 2017)
 * Angular 4 - The complete guide (Udemy, 2017)
 * PHP Programming (FLISOL, 2013)
 * Samba – Linux Server (FLISOL, 2013)
