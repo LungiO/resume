@@ -13,7 +13,7 @@
 **Github:** cassianomon
 
 ## About me
-Front-end Developer since 2012. Studying Software Engineering at the Federal Technological University of Paraná. I have worked with PWA projects with Angular, hybrid mobile apps and more. Always looking for new ways to make the right work.
+Front-end Developer since 2012. Studying Software Engineering at the Federal Technological University of Paraná. I have worked with PWA projects with Angular, hybrid mobile apps and more. Always looking for new ways to make the right thing.
 
 ## Skills
 
