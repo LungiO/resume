@@ -13,32 +13,31 @@
 **Github:** cassianomon
 
 ## About me
-I work as a Front-end Developer since 2012 and I am an academic of the Software Engineering course at the Federal Technological University of Paraná. I have experience with small and large projects. As a programmer I'm always looking for best practices and trying new things. I like to work as a team and I am very communicative.
+Front-end Developer since 2012. Studying Software Engineering at the Federal Technological University of Paraná. I have worked with PWA projects with Angular, hybrid mobile apps and more. Always looking for new ways to make the right work.
 
 ## Skills
 
 * Semantic HTML
 * Responsive Design (Mobile First)
-* CSS (Stylus, Sass, Less)
-* CSS Frameworks (Bootstrap)
-* Javascript (Typescript, JQuery)
-* Angular
-* NodeJS
-* Grunt, Gulp, Npm
+* CSS (Stylus, Sass, Less, CSS)
+* Javascript (Typescript, JQuery, VanillaJS)
+* Angular 2+
+* NodeJS, Express
+* Grunt, Gulp, Npm, Yarn
 * Git
-* Scrum and Kanban
+* Scrum, Kanban
 
 ## Professional Experience
 
 **Front-end Developer** - Condominizar - November 2016 - Actually
 
-> I am responsible for the development of a platform for management of condominiums, focusing on the financial and bureaucratic control of small and large condominiums. I create new functionalities for the system and other necessities for the viability of the product. In the building proccess of the platform I try to improve my practices and create reusable components efficiently. Working with: Typescript, Javascript, JQuery, HTML5, CSS3 / SASS, Angular, Bootstrap, Git and Kanban.
+> I am responsible for the front-end development of a platform of condominius management, focusing on the financial and bureaucratic control of small and large condominiums. I create new functionalities for the system and other necessities for the viability of the product. In the building proccess of the platform I create reusable components efficiently. Working with: Typescript, Javascript, JQuery, HTML5, CSS3/SASS, Angular 2+, Bootstrap 3/4, Git and Kanban.
 
 **Front-end Developer** - R3Mobi - September 2015 - November 2016
 
 > As a front-end developer I was responsible for developing new functionalities for a discount coupon plataform. Development of a administrative panel, webpages, hotsites and mobile applications. Working with: JQuery, HTML5, CSS3/Stylus, Bootstrap, Grunt, Gulp, Apache Cordova, Zepto.js, Git, Kanbam.
 
-**Front-end Developer and Marketing Assistant** - Maqgill Furniture - November 2014 - January 2015
+**Front-end Developer and Marketing** - Maqgill Furniture - November 2014 - January 2015
 
 > Responsible for creating marketing campaigns, and rebuild the company website. Working with: CorelDRAW, Adobe Photoshop, MailChimp, SendGrid, HTML5, CSS3/Less/Stylus, JQuery, Bootstrap, Grunt, Gulp, Kanban.
 
@@ -60,6 +59,7 @@ I work as a Front-end Developer since 2012 and I am an academic of the Software 
 
 ## Courses
 
+* Docker - Essential tool for deleveopers (Udemy, 2017)
 * Angular 4 - The complete guide (Udemy, 2017)
 * PHP Programming (FLISOL, 2013)
 * Samba – Linux Server (FLISOL, 2013)
