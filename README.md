@@ -35,11 +35,11 @@ Front-end Developer since 2012. Studying Software Engineering at the Federal Tec
 
 **Front-end Developer** - R3Mobi - September 2015 - November 2016
 
-> As a front-end developer I was responsible for developing new functionalities for a discount coupon plataform. Development of a administrative panel, webpages, hotsites and mobile applications. Working with: JQuery, HTML5, CSS3/Stylus, Bootstrap, Grunt, Gulp, Apache Cordova, Zepto.js, Git, Kanbam.
+> As a front-end developer I was responsible for developing new functionalities for a discount coupon platform. Development of an administrative panel, webpages, hotsites and mobile applications. Working with: JQuery, HTML5, CSS3/Stylus, Bootstrap, Grunt, Gulp, Apache Cordova, Zepto.js, Git, Kanban.
 
 **Front-end Developer and Marketing** - Maqgill Furniture - November 2014 - January 2015
 
-> Responsible for creating marketing campaigns, and rebuild the company website. Working with: CorelDRAW, Adobe Photoshop, MailChimp, SendGrid, HTML5, CSS3/Less/Stylus, JQuery, Bootstrap, Grunt, Gulp, Kanban.
+> Responsible for creating marketing campaigns and rebuilding the company's website. Working with: CorelDRAW, Adobe Photoshop, MailChimp, SendGrid, HTML5, CSS3/Less/Stylus, JQuery, Bootstrap, Grunt, Gulp, Kanban.
 
 **Front-end Developer** - Agency Studio Imaxis - October 2013 - October 2014
 
@@ -50,7 +50,7 @@ Front-end Developer since 2012. Studying Software Engineering at the Federal Tec
 > I performed as IT teacher for children, adults and old-aged people, teaching about the Office Suite (Excel, Word, Powerpoint), Windows, Linux, Formatting Texts and Academic Papers, Advanced Internet Search, Introduction to Web Development with HTML5, CSS3 e Javascript.
 
 
-## Formation
+## Education
 
 **Software Engineering - UTFPR** - January 2017 - Actually
 
